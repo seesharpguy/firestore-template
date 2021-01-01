@@ -1,0 +1,20 @@
+{
+  "name": "cutomize",
+  "version": "1.0.0",
+  "description": "customize flutter app from template repository",
+  "main": "customize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ryan.sites@optum.com",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "lodash": "^4.17.20",
+    "minimist": "^1.2.5",
+    "node-dir": "^0.1.17",
+    "replaceall": "^0.1.6",
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3"
+  }
+}
